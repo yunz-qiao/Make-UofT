@@ -254,7 +254,7 @@ void loop() {
 
   display.display();
 
-  delay(66);
+  delay(250);
 }
 
 void setLED(int r, int g, int b) {
